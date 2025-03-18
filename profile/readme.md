@@ -1,17 +1,33 @@
-Créer une pipeline pour tester l'infrastructure d'une architecture MicroService template
-(Juste la communication et la connectivité -> RabitMq -> Un front -> deux APIs -> une passerelle )
+# Introduction
 
-L'idée est que j'aurais un template pour tester les communications entre chaque APIs, système, ect…
-sans la complexité. Mais également chaque projet est Template. Lors de la génération de chaque projet
-cela se créée automatiquement avec tout le nécessaire. Chaque projet est automatiquement utilisable,
-prêt à l'emploie.
+Dans un environnement de développement orienté microservices, la communication et la connectivité entre les différents composants sont essentielles. Cependant, la mise en place d'une infrastructure de test efficace peut rapidement devenir complexe et chronophage.
 
-Cela permet d'augmenté la productivité future à une vitesse folle et de se concentrer sur la standardisation
-des processus de communication.
+C'est dans cette optique que notre projet vise à proposer un **template de pipeline** permettant de tester facilement la communication et la connectivité entre plusieurs services. Ce template inclut les éléments suivants :
 
-Dans le futures, créée et intégrés de nouveau projet avec d'autre langage de programmation serra beaucoup plus
-simple. Des templates pourront être créée pour chaque langage en cas de besoin.
+- Un système de messagerie **RabbitMQ** pour assurer la transmission des messages entre services.
+- Un **frontend** pour interagir avec l'infrastructure.
+- Deux **APIs** distinctes assurant des fonctionnalités spécifiques.
+- Une **passerelle** pour gérer l'acheminement des requêtes entre les services.
+- Un **load balancing avec Nginx (reverse proxy)** pour assurer une répartition efficace du trafic et garantir une haute disponibilité des services.
 
-Les templates comporteront également des workflows associé, comme la gestion des release, le déploiement continue.
+## Objectif du projet
 
-GitHub est the best plateform forever.
+L'objectif principal de ce projet est de fournir un **template générique et automatisé** permettant de tester et de valider les interactions entre les différentes composantes d'une architecture microservices **sans complexité excessive**. Ce template inclut tous les éléments nécessaires à une exécution immédiate et reproductible.
+
+Grâce à cette approche, nous visons à **accélérer le développement et la standardisation** des processus de communication entre les services. Ce pipeline simplifie la mise en place d'une infrastructure de test robuste et reproductible, évitant ainsi aux développeurs de perdre du temps sur des configurations récurrentes.
+
+## Avantages
+
+- **Augmentation de la productivité** : En fournissant un environnement prêt à l'emploi, ce projet permet aux équipes de développement de se concentrer sur la conception et l'amélioration de leurs services sans se soucier de la mise en place de l'infrastructure de test.
+- **Facilité d'intégration de nouveaux langages** : Dans le futur, il sera simple d'ajouter de nouveaux projets développés dans d'autres langages, grâce à des templates dédiés.
+- **Automatisation et standardisation** : Chaque projet généré suivra les mêmes conventions et pratiques recommandées, garantissant une homogénéité et une meilleure maintenabilité du code.
+- **Workflows intégrés** : Les templates incluent des workflows GitHub préconfigurés pour la gestion des releases et le déploiement continu, assurant un cycle de développement fluide et optimisé.
+- **Load balancing efficace** : L'intégration de **Nginx** comme **reverse proxy** permet une répartition optimale des requêtes entre les services, améliorant ainsi les performances et la scalabilité de l'infrastructure.
+
+## Vision future
+
+Avec cette approche, l'ajout de nouveaux projets ou l'intégration de nouvelles technologies devient beaucoup plus simple. La création de nouveaux templates pour d'autres langages permettra de s'adapter rapidement aux besoins changeants des équipes de développement.
+
+En définitive, ce projet vise à fournir une **base solide et évolutive** pour tester l'infrastructure des architectures microservices en toute simplicité.
+
+**GitHub est et restera la meilleure plateforme pour cela !**
