@@ -4,10 +4,10 @@ Dans un environnement de développement orienté microservices, la communication
 
 C'est dans cette optique que notre projet vise à proposer un **template de pipeline** permettant de tester facilement la communication et la connectivité entre plusieurs services. Ce template inclut les éléments suivants :
 
-- Un système de messagerie **RabbitMQ** pour assurer la transmission des messages entre services.
+- Un système de messagerie **RabbitMQ** pour assurer la transmission asynchrone des messages entre services.
 - Un **frontend** pour interagir avec l'infrastructure.
 - Deux **APIs** distinctes assurant des fonctionnalités spécifiques.
-- Une **passerelle** pour gérer l'acheminement des requêtes entre les services.
+- Une **passerelle API Gateway** pour gérer l'acheminement des requêtes entrantes et sécuriser l'accès aux services.
 - Un **load balancing avec Nginx (reverse proxy)** pour assurer une répartition efficace du trafic et garantir une haute disponibilité des services.
 
 ## Objectif du projet
@@ -15,6 +15,46 @@ C'est dans cette optique que notre projet vise à proposer un **template de pipe
 L'objectif principal de ce projet est de fournir un **template générique et automatisé** permettant de tester et de valider les interactions entre les différentes composantes d'une architecture microservices **sans complexité excessive**. Ce template inclut tous les éléments nécessaires à une exécution immédiate et reproductible.
 
 Grâce à cette approche, nous visons à **accélérer le développement et la standardisation** des processus de communication entre les services. Ce pipeline simplifie la mise en place d'une infrastructure de test robuste et reproductible, évitant ainsi aux développeurs de perdre du temps sur des configurations récurrentes.
+
+## Architecture et fonctionnement
+
+### API Gateway
+
+L'**API Gateway** joue un rôle central en tant que point d'entrée unique pour les clients externes (applications mobiles, sites web, partenaires). Elle prend en charge :
+
+- **Authentification et autorisation** (OAuth2, JWT)
+- **Routage et transformation des requêtes**
+- **Gestion des versions d'API**
+- **Limitation de débit (rate limiting)**
+
+Exemple : Un client externe appelle `/api/orders` via l'API Gateway pour créer une commande. L'API Gateway valide le token JWT et route la requête vers le microservice "Commandes".
+
+### RabbitMQ
+
+**RabbitMQ** est utilisé pour la communication asynchrone entre microservices internes, notamment pour :
+
+- **L'échange d'événements entre services** (pub/sub)
+- **L'orchestration de workflows longs** (exemple : traitement de paiement asynchrone)
+- **La persistance des messages** en cas de panne
+
+Exemple : Le microservice "Commandes" publie un événement `OrderCreated` dans RabbitMQ, et le microservice "Facturation" le consomme pour générer une facture.
+
+### API Gateway vs RabbitMQ
+
+| Critère  | API Gateway                      | RabbitMQ                        |
+| -------- | -------------------------------- | ------------------------------- |
+| Accès    | Externe + Interne (synchrone)    | Interne uniquement (asynchrone) |
+| Sécurité | Gérée au niveau HTTP (JWT, etc.) | Credentials + TLS               |
+| Latence  | Optimisé pour le temps réel      | Tolère des délais               |
+| Couplage | Couplage client-service          | Découplage service-service      |
+
+### Interaction API Gateway et RabbitMQ
+
+Un scénario typique combinant les deux :
+
+1. Un client externe appelle l'API Gateway pour créer une commande.
+2. L'API Gateway valide la requête et publie un message dans RabbitMQ.
+3. Les microservices internes consomment le message via RabbitMQ pour traiter la commande.
 
 ## Avantages
 
