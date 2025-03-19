@@ -16,6 +16,15 @@ L'objectif principal de ce projet est de fournir un **template générique et au
 
 Grâce à cette approche, nous visons à **accélérer le développement et la standardisation** des processus de communication entre les services. Ce pipeline simplifie la mise en place d'une infrastructure de test robuste et reproductible, évitant ainsi aux développeurs de perdre du temps sur des configurations récurrentes.
 
+## État actuel et évolutions futures
+
+À ce jour, **Microservice API Template** est en place et sert de base pour la création et l'intégration de microservices. Les prochaines étapes incluront l'ajout des fonctionnalités suivantes :
+
+- **API Gateway** : Point d'entrée unique pour les clients externes avec gestion des authentifications et du routage.
+- **RabbitMQ** : Communication asynchrone entre services via un système de messagerie.
+- **Load balancing avec Nginx** : Répartition de charge pour améliorer la scalabilité et la résilience.
+- **Intégration d'un frontend** pour interagir avec les services de l'infrastructure.
+
 ## Architecture et fonctionnement
 
 ### API Gateway
