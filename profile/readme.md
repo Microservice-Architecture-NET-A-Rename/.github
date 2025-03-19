@@ -18,7 +18,7 @@ Grâce à cette approche, nous visons à **accélérer le développement et la s
 
 ## État actuel et évolutions futures
 
-À ce jour, **Microservice API Template** est en place et sert de base pour la création et l'intégration de microservices. Les prochaines étapes incluront l'ajout des fonctionnalités suivantes :
+À ce jour, **Microservice API Template** est en place et sert de base pour la création et l'intégration des APIs dans une architecture microservices. Les prochaines étapes incluront l'ajout des fonctionnalités suivantes :
 
 - **API Gateway** : Point d'entrée unique pour les clients externes avec gestion des authentifications et du routage.
 - **RabbitMQ** : Communication asynchrone entre services via un système de messagerie.
