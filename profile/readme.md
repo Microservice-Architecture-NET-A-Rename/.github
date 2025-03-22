@@ -25,6 +25,29 @@ Grâce à cette approche, nous visons à **accélérer le développement et la s
 - **Load balancing avec Nginx** : Répartition de charge pour améliorer la scalabilité et la résilience.
 - **Intégration d'un frontend** pour interagir avec les services de l'infrastructure.
 
+### Évolutions futures pour la tolérance aux pannes et l'atomicité des transactions
+
+Dans le cadre de l'amélioration continue de notre architecture microservices, nous prévoyons d'implémenter les mécanismes suivants :
+
+1. **Utilisation de RabbitMQ et Circuit Breaker pour la tolérance aux pannes** :
+   - Mise en place de files d'attente RabbitMQ pour gérer la communication asynchrone entre les services.
+   - Implémentation du pattern Circuit Breaker pour prévenir la propagation des pannes et améliorer la résilience du système.
+   - Pour plus d'informations, consultez la [documentation Microsoft sur l'utilisation de RabbitMQ dans un environnement de test](https://learn.microsoft.com/fr-fr/dotnet/architecture/microservices/multi-container-microservice-net-applications/rabbitmq-event-bus-development-test-environment).
+
+2. **Transaction Outbox Pattern pour l'atomicité des événements** :
+   - Création d'une table persistante pour stocker les événements avant leur publication.
+   - En cas de panne générale, les événements non traités seront republiés, assurant ainsi la cohérence des données entre les services.
+   - Ce pattern est particulièrement utile pour garantir l'atomicité des opérations impliquant à la fois des mises à jour de base de données et la publication d'événements.
+   - Pour plus de détails, voir [le pattern Transactional Outbox](https://microservices.io/patterns/data/transactional-outbox.html).
+
+3. **Considérations sur le pattern SAGA** :
+   - Bien que non implémenté dans cette version, le pattern SAGA pourrait être envisagé pour de futures évolutions, particulièrement pour les architectures microservices complexes nécessitant des transactions distribuées.
+   - SAGA est particulièrement utile pour gérer des transactions longues et complexes impliquant plusieurs services, mais sa mise en œuvre peut être complexe.
+   - Son utilisation est recommandée principalement pour les grandes architectures microservices avec des besoins transactionnels complexes.
+   - Pour plus d'informations, consultez la [documentation Microsoft sur le pattern SAGA](https://learn.microsoft.com/fr-fr/azure/architecture/patterns/saga).
+
+Ces évolutions futures permettront d'améliorer significativement la robustesse, la fiabilité et la cohérence des données dans notre architecture microservices, tout en maintenant une approche pragmatique adaptée à la complexité de notre système.
+
 ## Architecture et fonctionnement
 
 ### API Gateway
