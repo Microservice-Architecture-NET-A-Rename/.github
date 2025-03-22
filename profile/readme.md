@@ -40,13 +40,20 @@ Dans le cadre de l'amélioration continue de notre architecture microservices, n
    - Ce pattern est particulièrement utile pour garantir l'atomicité des opérations impliquant à la fois des mises à jour de base de données et la publication d'événements.
    - Pour plus de détails, voir [le pattern Transactional Outbox](https://microservices.io/patterns/data/transactional-outbox.html).
 
-3. **Considérations sur le pattern SAGA** :
+3. **Unit of Work pour garantir l'atomicité des transactions locales** :
+   - Chaque microservice devra obligatoirement implémenter le **pattern Unit of Work** pour assurer la gestion cohérente des transactions locales.
+   - Ce pattern permet de regrouper plusieurs opérations sur une base de données en une seule transaction atomique, évitant ainsi des états intermédiaires incohérents en cas d'échec partiel.
+   - Comme expliqué par [Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html), **Unit of Work** centralise les modifications à appliquer à la base de données et s'assure qu'elles sont exécutées dans une seule transaction.
+   - Cette approche est essentielle pour garantir que, dans un microservice donné, soit toutes les modifications sont validées ensemble, soit aucune ne l’est, évitant ainsi les incohérences de données.
+
+4. **Considérations sur le pattern SAGA** :
    - Bien que non implémenté dans cette version, le pattern SAGA pourrait être envisagé pour de futures évolutions, particulièrement pour les architectures microservices complexes nécessitant des transactions distribuées.
    - SAGA est particulièrement utile pour gérer des transactions longues et complexes impliquant plusieurs services, mais sa mise en œuvre peut être complexe.
    - Son utilisation est recommandée principalement pour les grandes architectures microservices avec des besoins transactionnels complexes.
    - Pour plus d'informations, consultez la [documentation Microsoft sur le pattern SAGA](https://learn.microsoft.com/fr-fr/azure/architecture/patterns/saga).
 
 Ces évolutions futures permettront d'améliorer significativement la robustesse, la fiabilité et la cohérence des données dans notre architecture microservices, tout en maintenant une approche pragmatique adaptée à la complexité de notre système.
+
 
 ## Architecture et fonctionnement
 
