@@ -60,9 +60,11 @@ Chaque feature devrait être documentée selon une structure précise, qui couvr
 
 ## **Conclusion**  
 
-L’approche "Documentation First basée sur les Features" permet de structurer efficacement le développement d’un produit tout en restant agile et réactif face aux besoins des utilisateurs. Elle combine les avantages de la documentation en amont (vision claire, meilleure communication, anticipation des problèmes) avec les bénéfices du développement itératif (tests rapides, feedback utilisateur, optimisation des coûts de maintenance).  
+L’approche "Documentation First basée sur les Features" permet de structurer efficacement le développement d’un produit tout en restant agile et réactif face aux besoins des utilisateurs. Elle combine les avantages de la documentation en amont (vision claire, meilleure communication, anticipation des problèmes) avec les bénéfices du développement itératif (tests rapides, feedback utilisateur, optimisation des coûts de maintenance).
 
 En appliquant ce modèle, une entreprise peut non seulement améliorer la qualité et la pertinence de ses fonctionnalités, mais aussi garantir une meilleure maintenabilité de son produit sur le long terme, tout en évitant des modifications techniques conséquentes qui pourraient alourdir le développement et augmenter les coûts.  
+
+Pour des exemples de templates et de meilleures pratiques, consultez [My Favorite Templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37).
 
 ---
 
@@ -193,5 +195,25 @@ L’approche **Documentation First par Feature** permet de concilier **action et
 ✔ **Moins de rigidité, plus d’adaptabilité aux besoins réels.**  
 
 En intégrant cette méthode dans un cadre agile, les entreprises peuvent **développer plus vite, mieux et avec moins de risques**. 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
