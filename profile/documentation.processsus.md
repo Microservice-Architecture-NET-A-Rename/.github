@@ -12,7 +12,7 @@ Adopter une approche où la documentation précède le développement permet plu
 3. **Réduire la dette technique** : En pensant d'abord aux implications techniques et fonctionnelles d'une feature avant son développement, on limite le risque de refontes majeures.  
 4. **Faciliter la maintenance** : Une documentation structurée et versionnée assure une meilleure continuité et compréhension du produit sur le long terme.  
 
-## **Pourquoi structurer la documentation par features ?**  
+## L’intérêt d’une documentation par feature
 
 Plutôt que de documenter de manière globale ou modulaire dès le début, il est plus efficace d’adopter une approche "feature-driven", où chaque feature est documentée individuellement avant d’être implémentée.  
 
@@ -68,7 +68,7 @@ Pour des exemples de templates et de meilleures pratiques, consultez [My Favorit
 
 ---
 
-### **Éviter des modifications techniques conséquentes : Approche par rôle**  
+## Bénéfices pour les différents rôles
 
 L'un des grands avantages de la documentation first basée sur les features est qu'elle permet d’anticiper et de limiter les modifications techniques majeures. Cela bénéficie autant aux architectes logiciels qu'aux chefs de produit, mais pour des raisons différentes.  
 
