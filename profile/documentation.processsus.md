@@ -74,29 +74,31 @@ L'un des grands avantages de la documentation first basée sur les features est 
 
 ---
 
-## **Pour les architectes : Une meilleure maîtrise de l’architecture du système**  
+## **Pour les architectes : Une meilleure maîtrise de l’architecture du système et une prévention de la sur-ingénierie**  
 
-Les architectes logiciels sont responsables de la cohérence, de la scalabilité et de la maintenabilité du système. Une approche où chaque feature est documentée avant d’être développée leur apporte plusieurs bénéfices clés :  
+Les architectes logiciels sont responsables de la **cohérence**, de la **scalabilité** et de la **maintenabilité** du système. Une approche où chaque feature est documentée avant d’être développée leur apporte plusieurs bénéfices clés, notamment en **évitant la sur-ingénierie**, qui survient souvent lorsque des solutions trop complexes sont mises en place pour des besoins mal définis.  
 
 ### **1. Anticipation des impacts sur l’architecture existante**  
-- Une feature bien documentée permet d’identifier en amont les dépendances avec les composants existants.  
+- Une feature bien documentée permet d’**identifier en amont** les dépendances avec les composants existants, évitant ainsi l’ajout de couches d’abstraction inutiles.  
 - Cela réduit les risques d’introduire des conflits, de casser une API ou d’affecter les performances du système.  
-- Permet de valider les choix technologiques avant l’implémentation (éviter des refontes post-développement).  
+- En validant les choix technologiques avant l’implémentation, on **évite les refontes post-développement** dues à une complexité excessive qui aurait pu être anticipée.  
 
-### **2. Intégration progressive et modulaire**  
-- Plutôt que d’imposer des changements massifs et complexes, chaque feature peut être introduite de manière incrémentale.  
-- Cela permet une meilleure gestion du déploiement en production, avec des mises à jour plus sûres et contrôlées.  
-- Les tests sont plus simples et ciblés, réduisant les risques de régression.  
+### **2. Intégration progressive et modulaire plutôt qu’une complexité excessive**  
+- Plutôt que d’introduire des changements massifs et complexes, chaque feature est intégrée **de manière incrémentale**, ce qui empêche l’empilement de solutions trop abstraites et difficilement maintenables.  
+- Cette approche permet **une meilleure gestion du déploiement en production**, en évitant les solutions surdimensionnées qui compliquent inutilement l’exploitation.  
+- Les tests sont plus simples et ciblés, réduisant ainsi la **nécessité de mécanismes de validation trop lourds**.  
 
-### **3. Réduction des effets de bord**  
-- Chaque modification est pensée en amont, limitant les surprises et les bugs qui pourraient affecter d’autres parties du système.  
-- La documentation aide les développeurs à comprendre l’impact potentiel de la feature avant de coder.  
-- Favorise une meilleure gestion des migrations et des mises à jour de l’infrastructure technique.  
+### **3. Réduction des effets de bord et des solutions surdimensionnées**  
+- Chaque modification est pensée en amont, **limitant les surprises et la nécessité de surcompenser** avec des architectures excessivement génériques ou complexes.  
+- La documentation pousse les développeurs à **se concentrer sur le besoin réel**, plutôt que d’anticiper des cas hypothétiques qui alourdissent inutilement le système.  
+- Cela favorise une meilleure gestion des migrations et des mises à jour de l’infrastructure technique, **sans ajouter des solutions trop sophistiquées par excès de prudence**.  
 
-### **4. Gestion facilitée des suppressions de features**  
-- Une feature obsolète peut être retirée en s’appuyant sur la documentation versionnée, ce qui évite les suppressions anarchiques et dangereuses.  
-- On peut facilement tracer l’impact d’une suppression et planifier les ajustements nécessaires.  
-- Réduit la dette technique en supprimant les features inutilisées de manière structurée.  
+### **4. Gestion facilitée des suppressions de features pour limiter la dette technique**  
+- Une feature obsolète peut être retirée en s’appuyant sur la documentation versionnée, ce qui évite **l’accumulation de code inutile** qui rend le système inutilement complexe.  
+- En documentant dès le départ l’impact d’une feature, il est plus facile de **prévoir sa suppression future**, empêchant ainsi la prolifération de fonctionnalités redondantes ou non essentielles.  
+- Cette approche permet **de contenir la dette technique**, en assurant que seules les features réellement nécessaires restent en place.  
+
+En imposant une documentation préalable, les architectes disposent ainsi d’un **filtre naturel contre la sur-ingénierie**, favorisant une architecture **plus pragmatique, maintenable et scalable**. 🚀  
 
 ---
 
@@ -262,12 +264,6 @@ Plutôt que d’être une contrainte, la documentation devient un **levier d’a
 ✅ **Stables** : Une fois validées, elles deviennent des fondations solides pour l’avenir.  
 
 En adoptant la **Documentation First**, les architectes construisent des solutions **pérennes, compréhensibles et actionnables**, plutôt que des idées théoriques laissées dans l’ombre. 🚀
-
-
-
-
-
-
 
 
 
