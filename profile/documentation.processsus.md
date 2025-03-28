@@ -1,6 +1,8 @@
 ### **Documentation First basée sur les Features : Une approche pragmatique du développement logiciel**  
 
-Dans le monde du développement logiciel, la documentation est souvent reléguée à une tâche secondaire, voire oubliée jusqu'aux dernières phases du projet. Pourtant, une approche "Documentation First" offre de nombreux avantages, notamment en matière de clarté, de maintenabilité et d'alignement entre les parties prenantes. Cependant, pour être efficace, cette documentation ne doit pas être conçue de manière abstraite ou exhaustive dès le départ. Elle doit suivre une logique itérative, centrée sur les fonctionnalités (features), qui sont la véritable unité de valeur pour les utilisateurs et les entreprises.  
+Dans le monde du développement logiciel, la documentation est souvent reléguée à une tâche secondaire, voire oubliée jusqu'aux dernières phases du projet. Pourtant, une approche "Documentation First" offre de nombreux avantages, notamment en matière de clarté, de maintenabilité et d'alignement entre les parties prenantes.  
+
+Cependant, pour être efficace, cette documentation ne doit pas être conçue de manière abstraite ou exhaustive dès le départ. Elle doit suivre une logique itérative, centrée sur les fonctionnalités (features), qui sont la véritable unité de valeur pour les utilisateurs et les entreprises.  
 
 ## **Pourquoi documenter avant de développer ?**  
 
@@ -19,6 +21,11 @@ Plutôt que de documenter de manière globale ou modulaire dès le début, il est pl
 2. **Feedback rapide des utilisateurs** : Une feature documentée en amont peut être discutée avec les utilisateurs avant même son développement, permettant d’ajuster son design et ses objectifs en fonction des besoins réels.  
 3. **Évaluation de l’utilité** : Une fois développée, une feature doit être testée et mesurée en production pour voir si elle est réellement utilisée. Si elle ne l'est pas, elle peut être supprimée avant d’accroître inutilement la dette technique et les coûts de maintenance.  
 4. **Documentation toujours à jour** : Chaque feature étant documentée dès sa conception, elle peut être facilement mise à jour ou supprimée en cas d’évolution du produit.  
+5. **Éviter des modifications techniques conséquentes** :  
+   - En documentant chaque feature avant son développement, on anticipe mieux son impact sur l’architecture existante.  
+   - Plutôt que d’intégrer des changements massifs et risqués, on peut planifier des ajouts progressifs qui s’intègrent sans perturber le reste du système.  
+   - Cela réduit le risque d’effets de bord et limite la nécessité de réécrire de grandes portions de code plus tard.  
+   - En cas de suppression d’une feature, la documentation versionnée permet de revenir facilement en arrière, évitant ainsi des régressions imprévues.  
 
 ## **Comment structurer la documentation d’une feature ?**  
 
@@ -55,5 +62,5 @@ Chaque feature devrait être documentée selon une structure précise, qui couvre à
 
 L’approche "Documentation First basée sur les Features" permet de structurer efficacement le développement d’un produit tout en restant agile et réactif face aux besoins des utilisateurs. Elle combine les avantages de la documentation en amont (vision claire, meilleure communication, anticipation des problèmes) avec les bénéfices du développement itératif (tests rapides, feedback utilisateur, optimisation des coûts de maintenance).  
 
-En appliquant ce modèle, une entreprise peut non seulement améliorer la qualité et la pertinence de ses fonctionnalités, mais aussi garantir une meilleure maintenabilité de son produit sur le long terme.  
+En appliquant ce modèle, une entreprise peut non seulement améliorer la qualité et la pertinence de ses fonctionnalités, mais aussi garantir une meilleure maintenabilité de son produit sur le long terme, tout en évitant des modifications techniques conséquentes qui pourraient alourdir le développement et augmenter les coûts.  
 
