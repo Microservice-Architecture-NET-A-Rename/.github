@@ -1,4 +1,4 @@
-##﻿# **Documentation First basée sur les Features : Une approche pragmatique du développement logiciel**  
+#﻿# **Documentation First basée sur les Features : Une approche pragmatique du développement logiciel**  
 
 Dans le monde du développement logiciel, la documentation est souvent reléguée à une tâche secondaire, voire oubliée jusqu'aux dernières phases du projet. Pourtant, une approche "Documentation First" offre de nombreux avantages, notamment en matière de clarté, de maintenabilité et d'alignement entre les parties prenantes.  
 
