@@ -266,5 +266,26 @@ Plutôt que d’être une contrainte, la documentation devient un **levier d’a
 En adoptant la **Documentation First**, les architectes construisent des solutions **pérennes, compréhensibles et actionnables**, plutôt que des idées théoriques laissées dans l’ombre. 🚀
 
 
+# Fixer des délais et limiter le périmètre
+
+Il est essentiel de se fixer des délais et de minimiser au maximum le périmètre afin de livrer rapidement une version stable. Par exemple, une version pourrait correspondre à 2 semaines de développement. Cette approche oblige à se restreindre et évite de succomber à la tentation du "on rajoute ça puis ça", ce qui risquerait de repousser indéfiniment la sortie d'une version stable.
+
+Les ajouts et nouvelles idées d'évolution pourront être implémentés plus tard, en fonction des priorités et des besoins. Ce qui compte, dans l'intérêt du bien commun, est de viser la stabilité et la cohérence plutôt que de surcharger le système de fonctionnalités, au risque de le rendre instable.
+
+### Conséquences du bourrage de fonctionnalités
+
+L'ajout excessif de fonctionnalités peut avoir des conséquences négatives en termes de coûts :
+
+- **Coût de développement** : Plus de fonctionnalités nécessitent plus de temps de développement, augmentant ainsi les coûts en ressources humaines.
+- **Complexité accrue** : Un système surchargé devient difficile à maintenir et à faire évoluer, ce qui augmente le risque de bugs et ralentit les cycles de développement.
+- **Retard dans la livraison** : En ajoutant sans cesse de nouvelles fonctionnalités, la sortie d’une version stable est retardée, empêchant l’adoption et l'amélioration continue du produit.
+- **Coût de formation et d’adoption** : Une interface trop complexe ou un trop grand nombre de fonctionnalités peuvent rendre l’outil difficile à appréhender pour les utilisateurs, nécessitant plus de support et de formation.
+- **Risque d’instabilité** : Trop de nouvelles fonctionnalités introduites sans contrôle peuvent compromettre la stabilité du système, entraînant des dysfonctionnements et des régressions.
+
+L'objectif est donc de se concentrer sur l'essentiel pour garantir une base solide, stable et cohérente, sur laquelle de nouvelles évolutions pourront être ajoutées de manière progressive et maîtrisée. 
+
+
+
+
 
 
