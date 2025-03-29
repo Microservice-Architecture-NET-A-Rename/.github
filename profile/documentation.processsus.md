@@ -58,14 +58,6 @@ Chaque feature devrait être documentée selon une structure précise, qui couvr
    - Plan de rollback en cas de problème  
    - Conditions de suppression si la feature s’avère inutile  
 
-## **Conclusion**  
-
-L’approche "Documentation First basée sur les Features" permet de structurer efficacement le développement d’un produit tout en restant agile et réactif face aux besoins des utilisateurs. Elle combine les avantages de la documentation en amont (vision claire, meilleure communication, anticipation des problèmes) avec les bénéfices du développement itératif (tests rapides, feedback utilisateur, optimisation des coûts de maintenance).
-
-En appliquant ce modèle, une entreprise peut non seulement améliorer la qualité et la pertinence de ses fonctionnalités, mais aussi garantir une meilleure maintenabilité de son produit sur le long terme, tout en évitant des modifications techniques conséquentes qui pourraient alourdir le développement et augmenter les coûts.  
-
-Pour des exemples de templates et de meilleures pratiques, consultez [My Favorite Templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37).
-
 ---
 
 ## Bénéfices pour les différents rôles
@@ -127,19 +119,6 @@ Les chefs de produit doivent s’assurer que les fonctionnalités développées 
 - En cas d’échec, une suppression documentée permet d’ajuster le produit sans alourdir la dette technique.  
 
 ---
-
-## **Conclusion**  
-
-Pour les architectes, cette approche garantit une meilleure maîtrise technique du produit, réduit les refontes massives et assure une intégration harmonieuse des nouvelles features.  
-
-Pour les chefs de produit, elle permet une meilleure gestion des priorités, réduit les coûts de développement et assure un alignement optimal entre besoins utilisateurs et faisabilité technique.  
-
-L’adoption de cette approche apporte donc une meilleure synergie entre les équipes tech et produit, et favorise un développement logiciel plus fluide, prévisible et efficace. 🚀
-
-
-
-
----
 ### **Une approche parfaitement adaptée à l’Agilité : Moins de planification, plus d’action**  
 
 L’approche **Documentation First basée sur les Features** s’intègre parfaitement dans la philosophie **Agile**, car elle favorise une approche itérative et pragmatique du développement. Contrairement aux méthodes traditionnelles où la planification exhaustive précède le développement (souvent source de rigidité et de lourdeur), cette approche permet de **passer rapidement à l’action** tout en restant structuré.  
@@ -186,18 +165,6 @@ L’approche **Documentation First basée sur les Features** s’intègre parfai
 - Ils peuvent anticiper l’impact d’une feature avant son développement, garantissant une meilleure stabilité du système.  
 - Les ajouts progressifs évitent les refontes massives et réduisent le risque de dettes techniques.  
 - La documentation versionnée permet de **supprimer proprement des fonctionnalités** sans perturber l’architecture globale.  
-
----
-
-## **Conclusion : Une documentation vivante, agile et utile**  
-
-L’approche **Documentation First par Feature** permet de concilier **action et structuration**, ce qui en fait un modèle parfaitement aligné avec les principes agiles :  
-✔ **Moins de planification lourde, plus de tests concrets.**  
-✔ **Moins de documentation inutile, plus d’itérations ciblées.**  
-✔ **Moins de rigidité, plus d’adaptabilité aux besoins réels.**  
-
-En intégrant cette méthode dans un cadre agile, les entreprises peuvent **développer plus vite, mieux et avec moins de risques**. 🚀
-
 
 ---
 
@@ -254,18 +221,6 @@ Une **documentation efficace** ne se limite pas à une description technique. Po
 
 ---
 
-### **Conclusion : Une documentation technique qui sert l’action**  
-
-Plutôt que d’être une contrainte, la documentation devient un **levier d’accélération** pour les architectes. En suivant ce processus, ils garantissent que leurs solutions sont :  
-
-✅ **Claires** : Elles sont bien expliquées et accessibles aux équipes.  
-✅ **Utiles immédiatement** : Elles ne restent pas de simples concepts abstraits.  
-✅ **Évolutives** : Elles peuvent être améliorées grâce aux retours terrain.  
-✅ **Stables** : Une fois validées, elles deviennent des fondations solides pour l’avenir.  
-
-En adoptant la **Documentation First**, les architectes construisent des solutions **pérennes, compréhensibles et actionnables**, plutôt que des idées théoriques laissées dans l’ombre. 🚀
-
-
 # Fixer des délais et limiter le périmètre
 
 Il est essentiel de se fixer des délais et de minimiser au maximum le périmètre afin de livrer rapidement une version stable. Par exemple, une version pourrait correspondre à 2 semaines de développement. Cette approche oblige à se restreindre et évite de succomber à la tentation du "on rajoute ça puis ça", ce qui risquerait de repousser indéfiniment la sortie d'une version stable.
@@ -285,7 +240,36 @@ L'ajout excessif de fonctionnalités peut avoir des conséquences négatives en 
 L'objectif est donc de se concentrer sur l'essentiel pour garantir une base solide, stable et cohérente, sur laquelle de nouvelles évolutions pourront être ajoutées de manière progressive et maîtrisée. 
 
 
+### **Conclusion
 
+L’approche "Documentation First basée sur les Features" permet de structurer efficacement le développement d’un produit tout en restant agile et réactif face aux besoins des utilisateurs. Elle combine les avantages de la documentation en amont (vision claire, meilleure communication, anticipation des problèmes) avec les bénéfices du développement itératif (tests rapides, feedback utilisateur, optimisation des coûts de maintenance).
+
+En appliquant ce modèle, une entreprise peut non seulement améliorer la qualité et la pertinence de ses fonctionnalités, mais aussi garantir une meilleure maintenabilité de son produit sur le long terme, tout en évitant des modifications techniques conséquentes qui pourraient alourdir le développement et augmenter les coûts.  
+
+Pour des exemples de templates et de meilleures pratiques, consultez [My Favorite Templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37).
+
+Pour les architectes, cette approche garantit une meilleure maîtrise technique du produit, réduit les refontes massives et assure une intégration harmonieuse des nouvelles features.  
+
+Pour les chefs de produit, elle permet une meilleure gestion des priorités, réduit les coûts de développement et assure un alignement optimal entre besoins utilisateurs et faisabilité technique.  
+
+L’adoption de cette approche apporte donc une meilleure synergie entre les équipes tech et produit, et favorise un développement logiciel plus fluide, prévisible et efficace. 🚀
+
+
+L’approche **Documentation First par Feature** permet de concilier **action et structuration**, ce qui en fait un modèle parfaitement aligné avec les principes agiles :  
+✔ **Moins de planification lourde, plus de tests concrets.**  
+✔ **Moins de documentation inutile, plus d’itérations ciblées.**  
+✔ **Moins de rigidité, plus d’adaptabilité aux besoins réels.**  
+
+En intégrant cette méthode dans un cadre agile, les entreprises peuvent **développer plus vite, mieux et avec moins de risques**. 🚀
+
+Plutôt que d’être une contrainte, la documentation devient un **levier d’accélération** pour les architectes. En suivant ce processus, ils garantissent que leurs solutions sont :  
+
+✅ **Claires** : Elles sont bien expliquées et accessibles aux équipes.  
+✅ **Utiles immédiatement** : Elles ne restent pas de simples concepts abstraits.  
+✅ **Évolutives** : Elles peuvent être améliorées grâce aux retours terrain.  
+✅ **Stables** : Une fois validées, elles deviennent des fondations solides pour l’avenir.  
+
+En adoptant la **Documentation First**, les architectes construisent des solutions **pérennes, compréhensibles et actionnables**, plutôt que des idées théoriques laissées dans l’ombre. 🚀
 
 
 
