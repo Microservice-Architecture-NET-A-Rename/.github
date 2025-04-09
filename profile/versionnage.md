@@ -1,4 +1,4 @@
-# **Trunk Based Development dans la vraie vie : Une approche hybride**
+c# **Trunk Based Development dans la vraie vie : Une approche hybride**
 
 Le **Trunk Based Development (TBD)** est un principe fondamental dans les pratiques modernes de développement logiciel, où les équipes cherchent à fusionner leurs modifications sur la branche principale (trunk) aussi fréquemment que possible. Cela permet de garantir une **intégration continue**, un suivi rapide des erreurs, et de minimiser le risque de conflits lors des fusions. Cependant, appliquer le TBD dans la vraie vie peut parfois entraîner des problèmes, notamment une instabilité du code sur la branche principale. C'est pourquoi une approche hybride est souvent nécessaire pour répondre aux exigences spécifiques des équipes tout en maintenant les bénéfices de TBD.
 
@@ -51,7 +51,22 @@ Une fois qu'une fonctionnalité est terminée et prête à être mise en production, 
   
 - **WITs associés** : Tant que chaque commit est correctement lié à un **WIT** (par exemple, via un ID de ticket dans le message du commit), l'historique des fonctionnalités restera tracé. Les WITs (user stories) continueront à être associés aux **commits individuels** et **au commit final** via le tag. Cela permet de conserver une référence claire à l’évolution de chaque fonctionnalité.
 
-### **6. Conclusion : Trouver un équilibre entre stabilité et agilité**
+### **6. Historique Git, feedback précoce et stabilité : la clé d’une stratégie de delivery réussie**
+
+D’un point de vue stratégique, l’un des grands intérêts de l’approche Trunk Based Development réside dans la **possibilité de livrer rapidement des fonctionnalités en preview**, directement en production, tout en **collectant du feedback utilisateur dès les premières phases de développement**. Cela permet non seulement de **valider les choix techniques et fonctionnels en conditions réelles**, mais aussi de **détecter plus tôt les éventuels problèmes**.
+
+En rendant le trunk toujours **déployable et stable**, on garantit que chaque modification intégrée peut être poussée en production en toute confiance, même si la fonctionnalité en question n’est pas encore visible des utilisateurs grâce aux **feature flags**. Cette démarche réduit les risques, fluidifie les cycles de développement, et alimente une boucle de feedback continue, bénéfique à la fois pour l’équipe produit et les utilisateurs finaux.
+
+Dans cette logique, il n’est **pas toujours nécessaire de conserver un historique complet de tous les commits intermédiaires**. Ce qui importe surtout, c’est que le **commit final — après un squash ou une fusion — représente un état stable, fonctionnel, et validé du code**. Il devient alors un point de référence clair et fiable dans l’historique du projet.
+
+Il est tout à fait acceptable, voire recommandé dans certains cas, de **regrouper plusieurs commits en un seul**, afin de **simplifier la lecture de l’historique Git** et de **faciliter la traçabilité fonctionnelle**. Cela dit, cette pratique doit être **alignée avec le processus de l’équipe** et **documentée en amont**, pour éviter toute perte d’information critique et assurer une compréhension partagée de la logique de versionnement.
+
+Un principe fondamental dans cette approche est que **tout ce qui est intégré dans le trunk doit avoir été testé**, validé, et être **dans un état immédiatement déployable**. Le trunk n’est pas un terrain d’expérimentation brute : c’est la **source de vérité** du projet, celle que l’on peut pousser en production **à tout moment, sans crainte**.
+
+Cela confère à l’équipe une **grande agilité en cas d’urgence** (correctif rapide, rollback, livraison partielle) et rassure toutes les parties prenantes : **si un problème survient, on peut déployer immédiatement une version stable issue du trunk**.
+
+ 
+### **7. Conclusion : Trouver un équilibre entre stabilité et agilité**
 
 Le Trunk Based Development dans la vraie vie nécessite une approche hybride pour éviter les instabilités qui peuvent découler d’un développement trop rapide sur la branche principale. En suivant ces bonnes pratiques, l’équipe peut bénéficier de l’intégration continue tout en préservant la **stabilité du code**, en **réduisant les risques de régression**, et en **améliorant la collaboration** entre les équipes.
 
@@ -64,4 +79,11 @@ Le Trunk Based Development dans la vraie vie nécessite une approche hybride pour
 - **Tagger également les commits finaux** pour marquer les étapes finales de la fonctionnalité avant sa mise en production.
 
 Ce processus hybride permet de tirer parti des avantages du Trunk Based Development tout en atténuant les risques liés à l’instabilité du code et à la gestion de fonctionnalités complexes.
+
+
+
+
+
+
+
 
