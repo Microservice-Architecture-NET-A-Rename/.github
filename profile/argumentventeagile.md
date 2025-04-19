@@ -55,6 +55,18 @@ Chaque livraison devient une **opportunité d’évaluation** et d’améliorati
 
 ---
 
+## 🧠 Des fonctionnalités qui peuvent mûrir en cours de route
+
+Un autre avantage fondamental de l’approche agile est sa **capacité à accueillir l’inattendu** et à s’adapter au rythme réel de votre réflexion.
+
+- Vous pouvez **mettre temporairement en pause votre projet**, sans conséquences techniques : nous conservons tous les éléments déjà réalisés, et pouvons reprendre facilement avec vous, à tout moment.
+- Certaines fonctionnalités, plus complexes ou coûteuses, peuvent être **repoussées sans difficulté** à une version ultérieure.
+- Cela vous permet de **gérer votre budget avec intelligence**, en priorisant ce qui a le plus d’impact aujourd’hui, tout en gardant la possibilité de revenir sur des idées en suspens plus tard.
+
+> 🧩 L’agilité vous offre **un développement modulaire, piloté par vos priorités et votre maturité produit**, pas par des contraintes rigides.
+
+---
+
 ## 📌 En résumé : ce que vous gagnez avec une démarche agile
 
 | Avantage clé                        | Détail pratique                                                       |
