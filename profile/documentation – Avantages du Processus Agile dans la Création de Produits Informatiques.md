@@ -52,6 +52,24 @@ Dans une logique agile, les critères de réussite changent fondamentalement :
 
 > ✅ Cette approche rend la mesure du succès **plus juste, plus cohérente et mieux alignée avec les objectifs réels** d’un produit numérique.
 
+### ⚖️ Complémentarité des indicateurs qualitatifs et quantitatifs
+
+Cela dit, il serait erroné d’écarter l’importance des **indicateurs quantitatifs**, qui restent essentiels pour :
+
+- Évaluer la **capacité de livraison** d’une équipe ou d’une organisation.
+- **Mesurer l'effort et le coût monétaire** d’un projet.
+- **Fixer des objectifs réalistes** et s’assurer que les équipes tiennent leurs engagements.
+- Servir de levier de **priorisation stricte**, en limitant le périmètre des versions.
+
+Comme évoqué dans le fichier [`documentation.processus.md -> Fixer des délais et limiter le périmètre`](#), fixer des délais courts et restreindre le périmètre d’une version est une pratique saine qui :
+
+- Encourage la discipline dans la construction du produit.
+- Évite l’effet tunnel et le "bourrage fonctionnel".
+- Permet de livrer rapidement des versions stables.
+- Soutient une **culture de l’engagement** vis-à-vis des utilisateurs.
+
+> 🎯 **L’agilité ne consiste pas à rejeter la rigueur, mais à l’appliquer de manière intelligente, au service de la qualité et de la valeur.** Il est donc nécessaire d’être **strict avec soi-même**, non pas pour respecter un planning figé, mais pour honorer les engagements pris avec les utilisateurs.
+
 ---
 
 ## 🔄 5. Une gestion de projet réactive et résiliente
