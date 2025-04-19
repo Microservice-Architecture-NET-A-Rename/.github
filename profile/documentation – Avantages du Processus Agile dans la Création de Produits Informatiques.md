@@ -42,7 +42,19 @@ Les **versions intermédiaires** (ou MVP, releases fréquentes) sont un pilier c
 
 ---
 
-## 🔄 4. Une gestion de projet réactive et résiliente
+## 📊 4. Réévaluer les indicateurs de succès : de la quantité à la qualité
+
+Dans une logique agile, les critères de réussite changent fondamentalement :
+
+- Les indicateurs ne sont plus strictement **quantitatifs** (nombre de tâches livrées, respect des délais, budget consommé).
+- Ils deviennent **qualitatifs**, orientés vers l’impact réel du produit sur l’utilisateur final.
+- Le succès d’un projet ne se mesure plus par son avancement dans un planning, mais par sa **capacité à créer de la valeur**, à améliorer l’expérience utilisateur, et à s’adapter aux besoins en constante évolution.
+
+> ✅ Cette approche rend la mesure du succès **plus juste, plus cohérente et mieux alignée avec les objectifs réels** d’un produit numérique.
+
+---
+
+## 🔄 5. Une gestion de projet réactive et résiliente
 
 L’approche agile impose une **flexibilité organisationnelle** :
 
@@ -63,13 +75,13 @@ L’approche agile impose une **flexibilité organisationnelle** :
 
 ## 🧷 Résumé
 
-| Élément                 | Approche traditionnelle       | Approche agile                      |
-|------------------------|-------------------------------|-------------------------------------|
-| Priorité principale     | Respect des délais             | Qualité & pertinence fonctionnelle |
-| Feuille de route       | Plan rigide                    | Guide souple                        |
-| Évolution du produit   | Suivi linéaire                 | Ajustement basé sur le feedback    |
-| Gestion de projet      | Structure fixe                 | Réactive & adaptable                |
-| Réussite mesurée par   | Tâches accomplies              | Valeur créée pour l’utilisateur    |
+| Élément                   | Approche traditionnelle         | Approche agile                          |
+|--------------------------|----------------------------------|-----------------------------------------|
+| Priorité principale       | Respect des délais               | Qualité & pertinence fonctionnelle      |
+| Feuille de route          | Plan rigide                      | Guide souple                            |
+| Évolution du produit      | Suivi linéaire                   | Ajustement basé sur le feedback         |
+| Gestion de projet         | Structure fixe                   | Réactive & adaptable                    |
+| Réussite mesurée par      | Tâches accomplies, livrables     | Valeur créée, satisfaction utilisateur  |
+| Indicateurs de performance| Quantitatifs (temps, budget)     | Qualitatifs (expérience, pertinence)    |
 
 ---
-
