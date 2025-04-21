@@ -71,7 +71,7 @@ Cela dit, il serait erroné d’écarter l’importance des **indicateurs quanti
 - **Fixer des objectifs réalistes** et s’assurer que les équipes tiennent leurs engagements.
 - Servir de levier de **priorisation stricte**, en limitant le périmètre des versions.
 
-Comme évoqué dans le fichier [`documentation.processus.md -> Fixer des délais et limiter le périmètre`](#), fixer des délais courts et restreindre le périmètre d’une version est une pratique saine qui :
+Comme évoqué dans le fichier [`documentation.processus.md -> Fixer des délais et limiter le périmètre`](https://github.com/Microservice-Architecture-NET-A-Rename/.github/blob/master/profile/documentation.processsus.md#fixer-des-d%C3%A9lais-et-limiter-le-p%C3%A9rim%C3%A8tre), fixer des délais courts et restreindre le périmètre d’une version est une pratique saine qui :
 
 - Encourage la discipline dans la construction du produit.
 - Évite l’effet tunnel et le "bourrage fonctionnel".
