@@ -14,7 +14,17 @@ Dans une gestion traditionnelle, le respect des délais prime souvent sur tout l
 - Les retards sont relativisés si le temps supplémentaire permet de **mieux répondre aux besoins utilisateurs**.
 - La qualité et la pertinence des fonctionnalités priment sur la vitesse de livraison.
 
-> 💡 L’objectif n’est plus de livrer vite, mais de livrer **utile**.
+> 💡 L’objectif n’est pas de livrer vite, mais de livrer **utile**.
+
+### 🧩 Livrer petit, pas livrer vite
+
+La philosophie agile que nous adoptons ici ne se résume pas à "livrer rapidement", mais à **livrer par petites étapes maîtrisées**.
+
+- Le but est de **réduire le périmètre fonctionnel**, non pas pour aller plus vite, mais pour **se concentrer sur ce qui a du sens immédiatement**.
+- Chaque livraison est un **point d’ancrage pour observer**, comprendre, recueillir du feedback et **orienter les prochaines itérations**.
+- Cela permet de **faire mûrir certaines fonctionnalités** avant de les construire, d’éviter les solutions prématurées et de gagner en pertinence.
+
+> ✅ L’agilité consiste avant tout à **apprendre vite**, pas à tout faire vite.
 
 ---
 
