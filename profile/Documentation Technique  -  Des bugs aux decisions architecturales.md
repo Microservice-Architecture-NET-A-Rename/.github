@@ -27,7 +27,7 @@ Selon refactoring.guru, les *code smells* les plus fréquents incluent :
 - `Feature Envy`
 - `Primitive Obsession`
 
-👉 Voir le catalogue complet : [refactoring.guru/smells](https://refactoring.guru/fr/smells)
+👉 Voir le catalogue complet : [refactoring.guru/smells](https://refactoring.guru/refactoring/smells)
 
 ### 2.3. **Refactoring**
 Le **refactoring** est le processus d'amélioration de la structure interne du code **sans changer son comportement externe**.
