@@ -173,7 +173,7 @@ order.ship()
 ## 8. 🚧 Planification d’une refonte architecturale
 
 Lorsque des _odeurs de code_ deviennent systémiques :
-S
+
 - Prioriser les zones les plus critiques (fort impact métier ou changement fréquent).
 - Découper les refactorings en _refactorings progressifs_.
 - Utiliser des **design patterns** (Observer, Strategy, Facade...) pour modulariser.
