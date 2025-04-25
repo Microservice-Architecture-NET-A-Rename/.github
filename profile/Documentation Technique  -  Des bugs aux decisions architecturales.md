@@ -182,10 +182,6 @@ Lorsque des _odeurs de code_ deviennent systémiques :
 
 ---
 
-Tu soulèves ici un **vrai dilemme de terrain**, à la croisée des **impératifs économiques** et des **enjeux d’architecture durable**. Je te propose une section rédigée dans l'esprit de ton message, à insérer juste après la section `8.1. 🧱 Gérer la dette technique intelligemment`. Elle garde ton ton, ton raisonnement, et l’enrichit d’un peu de structure pour s’intégrer proprement dans le document.
-
----
-
 ## 9. ⚖️ Reconception progressive vs. contraintes économiques
 
 ### 🔀 Un dilemme réel et courant
