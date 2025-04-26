@@ -160,7 +160,7 @@ En facilitant une communication transparente et continue :
 Côté technique, cette nouvelle respiration permet aux équipes de :
 
 - **Prendre le temps de concevoir, tester et améliorer progressivement** sans tomber dans l’urgence permanente.
-- Réaliser des **refontes partielles intelligentes**, comme décrit dans le document [*Des bugs aux décisions architecturales*](https://github.com/Microservice-Architecture-NET-A-Rename/.github/blob/master/profile/Documentation%20Technique%20%20-%20%20Des%20bugs%20aux%20decisions%20architecturales.md#reconception-progressive-vs-contraintes-économiques), en conciliant dette technique et impératifs fonctionnels.
+- Réaliser des **refontes partielles intelligentes**, comme décrit dans le document [*Des bugs aux décisions architecturales*](https://github.com/Microservice-Architecture-NET-A-Rename/.github/blob/master/profile/maintenance/Documentation%20Technique%20%20-%20%20Des%20bugs%20aux%20decisions%20architecturales.md#reconception-progressive-vs-contraintes-%C3%A9conomiques), en conciliant dette technique et impératifs fonctionnels.
 - **Prévenir les défauts structurels** qui freinent l’évolution du produit sur le long terme.
 
 > 🛠️ **Livrer souvent n’empêche pas de bien construire.** L’agilité donne les moyens de le faire, à condition d’avoir cette discipline partagée entre produit et tech.
