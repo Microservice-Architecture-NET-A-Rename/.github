@@ -23,6 +23,7 @@ Avec l'évolution vers les microservices, la gestion de la logique métier a cha
 - **Performance** : Réduction des allers-retours entre application et BDD.
 - **Sécurité** : Contrôle d'accès à travers des interfaces définies.
 - **Maintenance** : Mise à jour unique de la logique pour toutes les applications utilisatrices.
+- **Intégrité des données** : Garantir l'application cohérente des règles métier au niveau de la base de données.
 
 ### 1.3 Limites
 
@@ -61,7 +62,7 @@ Avec l'évolution vers les microservices, la gestion de la logique métier a cha
 ### 3.3 Transition Contrôlée
 
 - Adapter progressivement les applications consommatrices.
-- Maintenir la cohérence métier durant la période de coexistence.
+- Maintenir la cohérence métier et l'intégrité des données durant la période de coexistence.
 
 ### 3.4 Tests et Validation
 
@@ -76,6 +77,7 @@ Avec l'évolution vers les microservices, la gestion de la logique métier a cha
 - **Scalabilité** : Possibilité de faire évoluer un service sans impacter les autres.
 - **Interopérabilité** : Utilisation facilitée par des systèmes hétérogènes.
 - **Résilience** : Un incident isolé n'affecte pas l'ensemble du système.
+- **Maintien de l'intégrité des données** : Contrôler les règles métier même dans une architecture distribuée.
 
 ---
 
@@ -84,6 +86,7 @@ Avec l'évolution vers les microservices, la gestion de la logique métier a cha
 - **Complexité de la migration** : Certaines logiques très imbriquées peuvent être difficiles à extraire.
 - **Transactions distribuées** : Gestion complexe des opérations atomiques sur plusieurs services.
 - **Performance** : Risques d'augmenter la latence si l'orchestration n'est pas optimisée.
+- **Garantir l'intégrité des données** : Prévoir des mécanismes de validation et de vérification.
 
 ---
 
@@ -91,7 +94,7 @@ Avec l'évolution vers les microservices, la gestion de la logique métier a cha
 
 Centraliser la logique métier dans la base de données était une stratégie judicieuse dans les architectures monolithiques. Aujourd'hui, avec la tendance aux microservices, cette logique doit être extraite et externalisée sous forme de services autonomes, exposant leur logique via APIs.
 
-Une approche progressive et méthodique est essentielle pour réussir cette transition tout en garantissant la cohérence fonctionnelle et la performance du système global.
+Une approche progressive et méthodique est essentielle pour réussir cette transition tout en garantissant la cohérence fonctionnelle, la performance, et l'intégrité des données du système global.
 
 ---
 
