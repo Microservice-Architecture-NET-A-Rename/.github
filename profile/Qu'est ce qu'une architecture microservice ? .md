@@ -2,8 +2,6 @@
 
 ## 1. Introduction
 
-Reflecion faisant écho à cette artice [Architecture logique versus architecture physique - .NET](https://learn.microsoft.com/fr-fr/dotnet/architecture/microservices/architect-microservice-container-applications/logical-versus-physical-architecture)
-
 Dans le développement logiciel moderne, le terme **microservices** est souvent associé aux conteneurs et à des architectures distribuées complexes. Cependant, cette association est parfois trompeuse. Il est essentiel de comprendre que :
 
 * **Microservices** est avant tout un concept **logique**, lié au découpage par **domaines métier** et à la modularité du code.
