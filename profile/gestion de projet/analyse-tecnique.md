@@ -277,6 +277,56 @@ Plus les briques sont éloignées, plus le test devient coûteux.
 
 ---
 
+## 5️⃣ Une tâche doit représenter un scénario complet
+
+Quand un développeur prend une tâche, il doit pouvoir dire :
+
+> “Ce que je livre a un sens complet du point de vue utilisateur.”
+
+Même si :
+
+* La fonctionnalité est complexe
+* La règle métier est lourde
+* L’impact technique est important
+
+Alors oui :
+
+👉 Cette tâche doit être considérée comme **à risque**.
+
+Et dans ce cas :
+
+* On l’identifie comme telle
+* On l’anticipe
+* On la discute
+* On la sécurise
+* On ajuste l’estimation
+
+Mais on ne la découpe pas artificiellement au point de casser sa cohérence.
+
+---
+
+## Complexité ≠ Mauvais découpage
+
+Certaines règles métier sont intrinsèquement complexes.
+
+Les découper artificiellement peut :
+
+* Masquer le risque réel
+* Multiplier les dépendances
+* Complexifier les tests
+* Rendre l’ensemble moins lisible
+
+Il vaut mieux :
+
+* Identifier la complexité
+* L’assumer
+* L’encadrer
+* L’analyser profondément
+
+Plutôt que de la diluer.
+
+---
+
 # Conclusion : la vraie productivité
 
 La vitesse d’un développement dépend en priorité de :
