@@ -1,0 +1,185 @@
+
+# Comment réaliser correctement une bonne analyse technique ?
+
+Une bonne analyse technique se fait en plusieurs phases logiques, avant même d’écrire une seule ligne de code.
+
+---
+
+## 1️⃣ Comprendre le besoin fonctionnel
+
+Avant de parler de code, il faut comprendre :
+
+* 🎯 L’objectif produit
+* 👤 Le point de vue utilisateur
+* 📦 Le contexte métier
+
+Le format des **User Stories** oblige à penser valeur :
+
+> *En tant que [utilisateur], je veux [action] afin de [objectif]*
+
+⚠️ Une User Story ≠ un développement technique.
+Une User Story peut impliquer plusieurs développements.
+
+---
+
+## 2️⃣ S’aligner avec le PO / analyste / testeur
+
+Un développeur productif n’est pas un développeur silencieux.
+
+Il doit :
+
+* Poser des questions
+* Clarifier les zones floues
+* Identifier les cas limites
+* Reformuler pour valider sa compréhension
+
+👉 L’alignement évite les retours arrière coûteux.
+
+Le temps passé à clarifier est du temps gagné en développement.
+
+---
+
+## 3️⃣ Analyser du point de vue utilisateur (et aller plus loin que la surface)
+
+Un bon développeur doit se demander :
+
+* À quel moment l’utilisateur déclenche l’action ?
+* Dans quel contexte ?
+* Que se passe-t-il si… ?
+* Quelles erreurs sont possibles ?
+* Quelles contraintes techniques impactent l’expérience ?
+
+Mais surtout :
+
+### 🔎 Le développeur va dans le détail
+
+Lors de l’exploration technique, il est **normal et nécessaire** que des questions apparaissent.
+
+Un développeur :
+
+* Analyse les enchaînements précis
+* Pense aux cas limites
+* Anticipe les incohérences
+* Détecte les zones non définies
+* Identifie des impacts invisibles au niveau fonctionnel
+
+Et souvent, il verra des choses que :
+
+* L’analyste n’a pas envisagées
+* Le PO n’a pas détaillées
+* Le testeur n’a pas anticipées
+
+Ce n’est pas une critique.
+C’est simplement parce que le développeur raisonne en logique d’exécution et en scénarios précis.
+
+👉 **Ce temps de questionnement est indispensable.**
+
+Il ne faut jamais le voir comme :
+
+* Du retard
+* Du perfectionnisme inutile
+* Une complication excessive
+
+C’est au contraire :
+
+* Une prévention des bugs
+* Une sécurisation du périmètre
+* Une réduction des retours en recette
+* Une amélioration globale du produit
+
+Plus la question est posée tôt, moins elle coûte cher.
+
+---
+
+## 4️⃣ Découper intelligemment
+
+Plus la complexité augmente, plus il faut découper.
+
+Pourquoi ?
+
+Parce que :
+
+* La complexité augmente exponentiellement
+* Le test devient plus difficile
+* Le risque de bug augmente
+* Le temps de compréhension explose
+
+Si un développement devient difficile à expliquer simplement, il est probablement trop gros.
+
+Découper permet :
+
+* De réduire la charge mentale
+* De faciliter les tests
+* De mieux estimer
+* De limiter les effets de bord
+
+---
+
+## 5️⃣ Délimiter le périmètre technique
+
+Avant de coder, identifier :
+
+### 🔹 Quelles briques sont concernées ?
+
+* Frontend ?
+* Backend ?
+* API ?
+* Base de données ?
+* Scripts ?
+* Logique métier ?
+
+### 🔹 Quel type d’opération ?
+
+Penser en CRUD :
+
+* Create
+* Read
+* Update
+* Delete
+
+À quel moment intervient la modification ?
+
+* Lecture ?
+* Écriture ?
+* Mise à jour ?
+* Suppression ?
+
+👉 Sur un gros système, cette réflexion réduit drastiquement le temps de recherche.
+
+---
+
+## 6️⃣ Penser testabilité dès l’analyse
+
+Un développeur doit toujours tester son code :
+
+* Automatiquement (tests unitaires / intégration)
+* Manuellement (tests exploratoires)
+
+Pour tester correctement, il doit :
+
+* Se mettre dans la peau d’un utilisateur
+* Isoler les briques
+* Réduire les dépendances
+* Anticiper les erreurs
+
+Plus les briques sont éloignées, plus le test devient coûteux.
+
+---
+
+# Conclusion : la vraie productivité
+
+La vitesse d’un développement dépend en priorité de :
+
+1️⃣ La compréhension et l’alignement produit
+2️⃣ Le niveau de complexité
+3️⃣ L’architecture et la distance entre les briques
+
+Un développeur productif :
+
+* Analyse avant de coder
+* Pose des questions sans crainte
+* Découpe la complexité
+* Anticipe les cas limites
+* Pense test dès le départ
+* Réduit la dispersion technique
+
