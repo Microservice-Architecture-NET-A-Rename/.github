@@ -1,0 +1,304 @@
+
+# Comment réaliser correctement une bonne analyse technique ?
+
+Une bonne analyse technique se fait en plusieurs phases logiques, avant même d’écrire une seule ligne de code.
+Une bonne analyse technique commence **bien avant le code**.
+Elle repose sur la compréhension, l’alignement et la collaboration.
+
+---
+
+## 1️⃣ Comprendre le besoin fonctionnel
+
+Avant de parler de code, il faut comprendre :
+
+* 🎯 L’objectif produit
+* 👤 Le point de vue utilisateur
+* 📦 Le contexte métier
+
+Le format des **User Stories** oblige à penser valeur :
+
+> *En tant que [utilisateur], je veux [action] afin de [objectif]*
+
+⚠️ Une User Story ≠ un développement technique.
+Une User Story peut impliquer plusieurs développements.
+
+---
+
+## 2️⃣ S’aligner avec le PO / analyste / testeur
+
+Un développeur productif n’est pas un développeur silencieux.
+
+Il doit :
+
+* Poser des questions
+* Clarifier les zones floues
+* Identifier les cas limites
+* Reformuler pour valider sa compréhension
+* Proposer des cas limites
+* Identifier les zones floues
+
+👉 L’alignement évite les retours arrière coûteux.
+
+Le temps passé à clarifier est du temps gagné en développement.
+
+### ⚠️ Un point important
+
+Un PO, un analyste ou un testeur peut parfois se sentir :
+
+* Interrompu
+* Trop sollicité
+* Remis en question (et il le devra)
+* Déstabilisé par des questions techniques (le développeur doit pas parler technique mais fonctionnel 
+  pour appliquer les bonnes solutions à part si le testeur est technique et là c'est plus simple).
+
+Mais il faut comprendre une chose essentielle :
+
+👉 **Ces sollicitations font partie intégrante de leur rôle.**
+
+Clarifier en amont :
+
+* Réduit les ambiguïtés
+* Diminue les retours en recette
+* Simplifie les tests
+* Évite les réouvertures de tickets
+* Réduit la dette fonctionnelle
+
+Ce temps d’échange :
+
+* Simplifie le travail futur
+* Réduit la complexité globale
+* Sécurise la réalisation technique
+
+---
+
+## 3️⃣ Analyser du point de vue utilisateur (et aller plus loin que la surface)
+
+Un bon développeur (il pense plus qu'il ne code) doit se demander :
+
+* À quel moment l’utilisateur déclenche l’action ?
+* Dans quel contexte ?
+* Que se passe-t-il si… ?
+* Quelles erreurs sont possibles ?
+* Quelles contraintes techniques impactent l’expérience ?
+
+Mais surtout :
+
+### 🔎 Le développeur va dans le détail
+
+Lors de l’exploration technique, il est **normal et nécessaire** que des questions apparaissent.
+
+Un développeur :
+
+* Analyse les enchaînements précis
+* Pense aux cas limites
+* Anticipe les incohérences
+* Détecte les zones non définies
+* Identifie des impacts invisibles au niveau fonctionnel
+
+Et souvent, il verra des choses que :
+
+* L’analyste n’a pas envisagées
+* Le PO n’a pas détaillées
+* Le testeur n’a pas anticipées
+
+Ce n’est pas une critique.
+C’est simplement parce que le développeur raisonne en logique d’exécution et en scénarios précis.
+
+Et j'insite aussi sur le fait que cela peut repasser en analyse fonctionnel si besoin. C'est mieux ainsi pour éviter les bugs et 
+tout ce que j'ai cité dans ce raisonement.  
+
+👉 **Ce temps de questionnement est indispensable.**
+
+Il ne faut jamais le voir comme :
+
+* Du retard
+* Du perfectionnisme inutile
+* Une complication excessive
+
+C’est au contraire :
+
+* Une prévention des bugs
+* Une sécurisation du périmètre
+* Une réduction des retours en recette
+* Une amélioration globale du produit
+
+Plus la question est posée tôt, moins elle coûte cher.
+
+---
+
+## 4️⃣ Découper intelligemment
+
+Plus la complexité augmente, plus il faut découper.
+
+Pourquoi ?
+
+Parce que :
+
+* La complexité augmente exponentiellement
+* Le test devient plus difficile
+* Le risque de bug augmente
+* Le temps de compréhension explose
+
+Si un développement devient difficile à expliquer simplement, il est probablement trop gros.
+
+Découper permet :
+
+* De réduire la charge mentale
+* De faciliter les tests
+* De mieux estimer
+* De limiter les effets de bord
+
+---
+
+## 3️⃣ La réussite technique dépend du début, pas de la fin
+
+Une erreur fréquente est de penser que :
+
+> La qualité d’un développement dépend de la phase de test finale.
+
+En réalité :
+
+👉 **La qualité dépend majoritairement de l’alignement initial.**
+
+Si le besoin est flou au départ :
+
+* Le code sera incertain
+* Les tests seront approximatifs
+* Les retours seront nombreux
+* La frustration augmentera
+
+À l’inverse :
+
+Si l’analyse est solide :
+
+* Le développement est fluide
+* Les tests sont naturels
+* Les retours sont rares
+* La mise en production est plus sereine
+
+La performance technique ne se joue pas à la fin.
+Elle se joue au moment de la compréhension (rien ne doit être dans le 'je pense que' c'est le produit qui dirige). 
+
+---
+
+### 🔎 Le développeur voit le détail d’exécution
+
+Lors de son exploration technique :
+
+* Des questions apparaissent
+* Des incohérences sont détectées
+* Des cas limites émergent
+* Des impacts transverses sont identifiés
+
+Un développeur raisonne en logique d’exécution.
+Il verra donc des choses que le fonctionnel n’a pas forcément vues.
+
+Ce temps de questionnement :
+
+* N’est pas une perte
+* N’est pas du perfectionnisme
+* N’est pas un ralentissement
+
+👉 C’est une sécurisation du produit.
+
+---
+
+## 5️⃣ Voir l’analyse comme un travail collectif
+
+Le développement n’est pas une succession de tâches isolées.
+
+C’est un **travail partagé** :
+
+* Le PO apporte la vision
+* L’analyste structure le besoin
+* Le testeur pense validation
+* Le développeur pense exécution technique
+
+Lorsque ces rôles collaborent dès le départ :
+
+* La complexité diminue
+* Les incompréhensions disparaissent
+* Le travail de fin (recette, corrections, rework) diminue fortement
+* Les gains de temps deviennent considérables
+
+Plus l’équipe investit au début, plus elle économise à la fin.
+
+
+---
+
+## 5️⃣ Délimiter le périmètre technique
+
+Avant de coder, identifier :
+
+### 🔹 Quelles briques sont concernées ?
+
+* Frontend ?
+* Backend ?
+* API ?
+* Base de données ?
+* Scripts ?
+* Logique métier ?
+
+### 🔹 Quel type d’opération ?
+
+Penser en CRUD :
+
+* Create
+* Read
+* Update
+* Delete
+
+À quel moment intervient la modification ?
+
+* Lecture ?
+* Écriture ?
+* Mise à jour ?
+* Suppression ?
+
+👉 Sur un gros système, cette réflexion réduit drastiquement le temps de recherche.
+
+---
+
+## 6️⃣ Penser testabilité dès l’analyse
+
+Un développeur doit toujours tester son code :
+
+* Automatiquement (tests unitaires / intégration)
+* Manuellement (tests exploratoires)
+
+Pour tester correctement, il doit :
+
+* Se mettre dans la peau d’un utilisateur
+* Isoler les briques
+* Réduire les dépendances
+* Anticiper les erreurs
+
+Plus les briques sont éloignées, plus le test devient coûteux.
+
+---
+
+# Conclusion : la vraie productivité
+
+La vitesse d’un développement dépend en priorité de :
+
+La compréhension et l’alignement produit
+De l’alignement collectif
+Le niveau de complexité
+De la collaboration continue
+
+3️⃣L’architecture et la distance entre les briques
+
+Un développeur productif :
+
+* Analyse avant de coder
+* Pose des questions sans crainte
+* Découpe la complexité
+* Anticipe les cas limites
+* Pense test dès le départ
+* Réduit la dispersion technique (si l'architecture est dispersé il pourra pas la réduire mais cela peut être une raison 
+  de l'explosion du temps de développement)
+
+Le développement performant est un travail d’équipe.
+
+Ce n’est pas un travail séquentiel.
+C’est un travail collaboratif où la réussite technique commence dès la première discussion.
