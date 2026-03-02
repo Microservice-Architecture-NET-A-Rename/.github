@@ -277,7 +277,7 @@ Plus les briques sont éloignées, plus le test devient coûteux.
 
 ---
 
-## 5️⃣ Une tâche doit représenter un scénario complet
+## 5️⃣ Une tâche doit représenter un scénario complet (80% des cas)
 
 Quand un développeur prend une tâche, il doit pouvoir dire :
 
@@ -302,6 +302,13 @@ Et dans ce cas :
 * On ajuste l’estimation
 
 Mais on ne la découpe pas artificiellement au point de casser sa cohérence.
+
+Mais dans certains contextes réels :
+* Migration technique
+* Refactoring massif
+* Mise en place d’infrastructure
+* Dette technique à résorber
+* Sécurisation progressive
 
 ---
 
