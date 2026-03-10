@@ -707,4 +707,137 @@ Car dans une organisation saine, la connaissance n’est pas un outil de dominat
 
 Elle est **un outil de partage et de progression collective**.
 
+---
+
+# La dynamique entre narcissisme, manque de confiance et dépendance au regard des autres
+
+Dans certains environnements professionnels, notamment lorsqu’une personne développe un sentiment d’irremplaçabilité, on peut observer des dynamiques psychologiques liées à la **recherche de reconnaissance et de validation extérieure**.
+
+Deux types de profils peuvent parfois se rencontrer et s’alimenter mutuellement.
+
+---
+
+## Le profil narcissique et la recherche d’admiration
+
+Certaines personnes possèdent des traits narcissiques plus marqués que la moyenne.
+
+Ces traits se traduisent souvent par :
+
+* un besoin d’admiration
+* une recherche de statut
+* une volonté d’être perçu comme supérieur ou indispensable
+* une sensibilité forte à la critique
+
+Dans certains cas, cette posture masque une **estime de soi fragile**.
+
+L’image de compétence exceptionnelle devient alors une manière de protéger l’individu contre le doute ou la remise en question.
+
+La reconnaissance extérieure devient essentielle pour maintenir cette image.
+
+---
+
+## Le profil avec un manque de confiance et la recherche d’autorité
+
+À l’opposé, certaines personnes peuvent manquer de confiance en elles et chercher des repères dans une **figure d’autorité perçue comme légitime**.
+
+Ces personnes peuvent avoir tendance à :
+
+* faire fortement confiance à un expert perçu comme supérieur
+* éviter de remettre en question les décisions
+* rechercher la validation d’une hiérarchie ou d’un spécialiste
+
+Elles peuvent se sentir rassurées lorsqu’une personne semble maîtriser parfaitement un sujet.
+
+---
+
+## Une relation de dépendance psychologique
+
+Dans certaines situations, ces deux profils peuvent involontairement se renforcer mutuellement.
+
+Le profil narcissique trouve :
+
+* l’admiration
+* la validation
+* la reconnaissance
+
+dont il a besoin.
+
+Le profil en manque de confiance trouve :
+
+* une figure forte
+* une direction claire
+* un sentiment de sécurité.
+
+Cette relation peut créer une **forme de dépendance psychologique réciproque**.
+
+Cependant, elle peut aussi renforcer le sentiment d’irremplaçabilité chez la personne centrale.
+
+---
+
+## La confrontation avec des profils plus autonomes
+
+Lorsque des collaborateurs possèdent une **estime de soi plus stable**, la dynamique peut changer.
+
+Ces personnes ont généralement :
+
+* moins besoin de validation constante
+* une capacité à remettre en question les idées
+* une autonomie intellectuelle plus forte
+
+Elles peuvent discuter les choix techniques, poser des questions ou proposer d’autres solutions.
+
+Pour certaines personnalités fragiles sur le plan narcissique, cette autonomie peut être perçue comme une menace.
+
+---
+
+## Le mécanisme d’inversion des rôles
+
+Face à cette situation, un phénomène psychologique fréquent peut apparaître : **la projection et l’inversion des rôles**.
+
+La personne peut accuser l’autre de comportements qui reflètent en réalité ses propres insécurités.
+
+Par exemple :
+
+* accuser quelqu’un de se croire supérieur
+* dire qu’il est arrogant
+* affirmer qu’il remet trop en question l’autorité
+
+En réalité, ces accusations peuvent être une manière inconsciente de **protéger son propre équilibre psychologique**.
+
+La critique de l’autre devient une manière d’éviter une remise en question personnelle.
+
+---
+
+## L’impact sur la confiance des autres collaborateurs
+
+Ce type de dynamique peut avoir des conséquences importantes dans une équipe.
+
+La personne visée peut progressivement :
+
+* douter de ses compétences
+* remettre en question ses capacités
+* perdre confiance en son jugement
+
+Lorsque ces mécanismes se répètent, ils peuvent contribuer à **affaiblir la confiance collective** et détériorer les relations professionnelles.
+
+---
+
+# Conclusion
+
+Dans un environnement professionnel sain, la reconnaissance ne doit pas devenir une dépendance psychologique.
+
+Les équipes fonctionnent mieux lorsque :
+
+* la compétence ne dépend pas d’une seule personne
+* la critique constructive est possible
+* chacun peut s’exprimer sans crainte de dévalorisation
+
+Un expert réellement solide n’a pas besoin d’être admiré en permanence.
+
+Sa légitimité repose avant tout sur :
+
+* la qualité de son travail
+* sa capacité à transmettre
+* et sa capacité à collaborer avec les autres.
+
 
