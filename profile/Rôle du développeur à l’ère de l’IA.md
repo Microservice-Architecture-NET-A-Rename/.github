@@ -148,5 +148,3 @@ Et elle amplifie énormément ceux qui :
 * pensent clairement
 * structurent bien
 * comprennent profondément
-
-Si tu veux, on peut aller encore plus loin et construire **ton plan concret pour te positionner là-dessus** (compétences à apprendre, projets à faire, roadmap sur 6 mois).
