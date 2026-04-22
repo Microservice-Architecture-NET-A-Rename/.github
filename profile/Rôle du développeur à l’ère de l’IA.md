@@ -1,7 +1,6 @@
 ### 1. Le développeur devient un **éditeur de systèmes générés**
 
-Tu parles d’architecture, mais il y a une nuance importante :
-on ne construit plus toujours “from scratch”, on **édite, corrige et aligne** des choses générées.
+On ne construit plus toujours “from scratch”, on **édite, corrige et aligne** des choses générées.
 
 Ça change complètement le métier :
 
