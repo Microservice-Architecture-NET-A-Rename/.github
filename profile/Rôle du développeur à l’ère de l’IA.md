@@ -1,6 +1,6 @@
 ### 1. Le développeur devient un **éditeur de systèmes générés**
 
-On ne construit plus toujours “from scratch”, on **édite, corrige et aligne** des choses générées.
+Tu ne construit plus toujours “from scratch”, on **édite, corrige et aligne** des choses générées.
 
 Ça change complètement le métier :
 
