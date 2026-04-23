@@ -26,8 +26,6 @@ On passe donc d’une logique de construction lente et réfléchie à une logiqu
 
 ## 🧠 2. Le vrai travail commence après la génération
 
-C’est ici que ton idée est essentielle.
-
 Le rôle du développeur n’est pas seulement de générer du code via l’IA, mais de :
 
 * analyser ce qui a été produit
