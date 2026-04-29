@@ -61,8 +61,6 @@ Mélanger les deux crée du bruit.
 
 ### 3. Le problème des tests techniques “algorithmico-logiques”
 
-Votre critique est solide.
-
 Beaucoup de tests évaluent :
 
 * vitesse ;
@@ -95,7 +93,7 @@ Il passe son temps à :
 
 ### 4. Le mimétisme des modèles GAFAM
 
-Vous pointez quelque chose d’important : beaucoup d’entreprises copient la forme sans comprendre la fonction.
+Beaucoup d’entreprises copient la forme sans comprendre la fonction.
 
 Les grandes entreprises comme Google, Meta, Amazon ou Microsoft ont construit leurs process avec :
 
