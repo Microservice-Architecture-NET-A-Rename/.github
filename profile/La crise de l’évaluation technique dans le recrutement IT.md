@@ -119,8 +119,6 @@ Résultat : du théâtre procédural.
 
 ### 5. Le biais élitiste
 
-Votre perception d’un élitisme culturel existe dans beaucoup d’organisations :
-
 “Je vais vérifier si tu mérites d’entrer.”
 
 au lieu de :
