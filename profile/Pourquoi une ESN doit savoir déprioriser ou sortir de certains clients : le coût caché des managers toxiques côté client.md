@@ -1,22 +1,24 @@
 # Pourquoi une ESN doit savoir déprioriser ou sortir de certains clients : le coût caché des managers toxiques côté client
 
-Dans une ESN, tous les clients ne se valent pas économiquement.
+Dans une Entreprise de services du numérique (ESN), la valeur d’un client ne se mesure pas uniquement au volume de chiffre d’affaires qu’il génère à un instant donné.
 
-Un client peut avoir :
+Le véritable moteur économique d’une ESN est la **récurrence**.
 
-* un bon budget,
-* des missions longues,
-* des besoins réguliers,
+La rentabilité d’une relation commerciale repose moins sur l’intensité ponctuelle de la facturation que sur sa **stabilité dans le temps**.
 
-et pourtant être un **mauvais client structurel**.
+Un client récurrent permet :
 
-Pourquoi ?
+* une meilleure prévisibilité du chiffre d’affaires,
+* une meilleure allocation des ressources,
+* une réduction du coût commercial,
+* une meilleure stabilité des consultants,
+* une montée en valeur progressive de la relation.
 
-Parce que la rentabilité d’une mission ne dépend pas uniquement du taux journalier ou du volume de facturation.
+C’est cette continuité qui transforme une mission en actif économique durable.
 
-Elle dépend aussi fortement de **l’environnement humain et organisationnel dans lequel les consultants sont placés**.
+Mais lorsqu’un client possède une organisation toxique ou dysfonctionnelle, cette récurrence devient fragile.
 
-Et lorsqu’un manager côté client crée un environnement toxique ou dysfonctionnel, le coût pour l’ESN peut devenir considérable.
+Et sans récurrence, la valeur réelle du client diminue fortement.
 
 ---
 
