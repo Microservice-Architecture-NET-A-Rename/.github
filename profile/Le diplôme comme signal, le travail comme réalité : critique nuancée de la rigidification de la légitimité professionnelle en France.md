@@ -268,6 +268,58 @@ Mais parce qu’il concentre trop de pouvoir de légitimation.
 
 ---
 
+## X. La pluralité des signaux de compétence : diplôme, expérience et production réelle
+
+La survalorisation du diplôme ne pose pas uniquement un problème d’exclusion ou de rigidité. Elle pose aussi un problème de réduction du réel à un seul type de signal.
+
+Dans de nombreux domaines, la compétence ne peut pas être correctement évaluée à partir d’un indicateur unique.
+
+On peut distinguer plusieurs familles de signaux :
+
+* **signaux académiques** (diplômes, certifications) ;
+* **signaux expérientiels** (années de pratique, exposition à des systèmes complexes) ;
+* **signaux de production** (portfolio, code, projets, réalisations concrètes) ;
+* **signaux sociaux** (recommandations, réputation professionnelle) ;
+
+Le problème apparaît lorsque l’un de ces signaux devient dominant au point d’écraser les autres.
+
+Dans ce cas, des accomplissements réels peuvent être sous-valorisés.
+
+Par exemple, un portfolio technique, un dépôt de code ou une contribution continue à des projets réels peuvent être des indicateurs très forts de compétence opérationnelle, mais ils restent parfois secondaires face à une certification formelle.
+
+Une approche plus robuste consiste à considérer ces signaux comme complémentaires, et non substituables.
+
+---
+
+## XI. Articulation entre théorie et pratique : éviter les deux extrêmes
+
+Un autre risque apparaît lorsqu’on oppose trop fortement diplôme et expérience pratique.
+
+Cette opposition peut conduire à deux dérives symétriques :
+
+* la survalorisation du diplôme au détriment de la pratique réelle ;
+* la dévalorisation de la théorie au profit exclusif de l’expérience immédiate.
+
+Or ces deux dimensions sont structurellement complémentaires.
+
+La théorie permet :
+
+* de généraliser des cas particuliers ;
+* d’anticiper des problèmes nouveaux ;
+* de structurer la compréhension des systèmes complexes.
+
+La pratique permet :
+
+* d’ancrer les connaissances dans le réel ;
+* de confronter les modèles aux contraintes ;
+* d’acquérir une intelligence situationnelle.
+
+Dans de nombreux métiers techniques, la performance réelle repose sur l’articulation des deux.
+
+Un système d’évaluation plus mature ne chercherait donc pas à opposer diplôme et expérience, mais à comprendre leur interaction.
+
+L’enjeu n’est pas de remplacer un signal par un autre, mais de construire une lecture multi-dimensionnelle de la compétence.
+
 ## Conclusion
 
 Le diplôme reste un outil utile.
