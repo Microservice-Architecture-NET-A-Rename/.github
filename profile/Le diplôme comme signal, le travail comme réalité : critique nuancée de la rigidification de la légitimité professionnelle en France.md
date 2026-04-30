@@ -203,6 +203,71 @@ Pas une frontière de légitimité.
 
 ---
 
+## VIII. Le diplôme et la reproduction des inégalités : la limite du modèle méritocratique
+
+L’un des arguments historiques en faveur du diplôme est qu’il permettrait de réduire les inégalités en remplaçant les privilèges de naissance par des critères de mérite.
+
+Cette idée conserve une part de vérité.
+
+Mais elle rencontre une limite importante.
+
+Le diplôme ne corrige pas automatiquement les inégalités initiales.
+
+Il intervient après une longue chaîne de déterminations sociales.
+
+Avant même l’entrée dans l’enseignement supérieur, les individus arrivent avec des écarts importants de ressources :
+
+* capital culturel ;
+* stabilité familiale ;
+* environnement éducatif ;
+* sécurité matérielle ;
+* accès à l’information.
+
+Ainsi, ce que le diplôme récompense n’est pas uniquement un effort individuel.
+
+Il récompense aussi, indirectement, les conditions qui ont rendu cet effort possible.
+
+Le problème apparaît lorsque cette réalité disparaît derrière le récit méritocratique.
+
+Le diplôme devient alors une preuve sociale de mérite, même lorsque les conditions de départ étaient profondément inégales.
+
+Cela produit un effet de légitimation.
+
+Les hiérarchies sociales ne disparaissent pas.
+
+Elles changent de forme.
+
+Elles deviennent institutionnellement validées.
+
+---
+
+## IX. De l’outil d’émancipation au mécanisme de fermeture
+
+Le diplôme peut fonctionner comme un outil d’ouverture.
+
+Mais lorsqu’il devient une condition dominante de légitimité, il peut aussi devenir un mécanisme de fermeture.
+
+Ce basculement se produit lorsque :
+
+* l’accès à l’emploi dépend excessivement de la certification ;
+* l’expérience réelle est sous-évaluée ;
+* les reconversions sont pénalisées ;
+* les trajectoires atypiques sont marginalisées.
+
+Dans ce cadre, le diplôme cesse d’être une passerelle.
+
+Il devient une frontière.
+
+Le paradoxe est alors le suivant :
+
+un mécanisme conçu pour organiser l’égalité des chances peut contribuer à rigidifier la stratification sociale.
+
+Non pas parce qu’il est injuste en lui-même.
+
+Mais parce qu’il concentre trop de pouvoir de légitimation.
+
+---
+
 ## Conclusion
 
 Le diplôme reste un outil utile.
