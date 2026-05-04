@@ -163,4 +163,161 @@ Quand les individus ont peur de parler :
 
 * les problèmes remontent tard ;
 * les erreurs persistent ;
-* l’ind
+* l’indécision augmente.
+
+La peur ralentit le système.
+
+---
+
+# V. Le quatrième mécanisme : le principe expérimental
+
+## 1. Décider pour apprendre
+
+Google applique une logique expérimentale.
+
+Décider n’est pas toujours rechercher la vérité.
+
+C’est souvent produire de l’information.
+
+## 2. L’expérimentation réduit l’indécision
+
+Question classique :
+
+Quelle solution est la meilleure ?
+
+Réponse agile :
+
+Testons.
+
+Le test remplace une partie du débat théorique.
+
+## 3. L’échec comme source d’information
+
+Si l’échec est acceptable, décider devient moins risqué.
+
+Moins de risque perçu = moins de paralysie.
+
+---
+
+# VI. Le cinquième mécanisme : la temporalité courte
+
+## 1. Limiter la fenêtre de décision
+
+Plus une décision reste ouverte, plus son coût cognitif augmente.
+
+Google limite souvent le temps décisionnel.
+
+## 2. Timeboxing
+
+Le temps devient une contrainte productive.
+
+Exemple :
+
+* réunion de 30 minutes ;
+* décision à la fin.
+
+Le temps force la convergence.
+
+## 3. Décision réversible
+
+Google distingue implicitement :
+
+* décisions réversibles ;
+* décisions irréversibles.
+
+Les décisions réversibles doivent être rapides.
+
+---
+
+# VII. Le sixième mécanisme : la documentation
+
+## 1. Externaliser la mémoire
+
+Documenter réduit l’ambiguïté.
+
+Pourquoi ?
+
+Parce que les décisions deviennent visibles.
+
+## 2. Traçabilité
+
+Questions résolues :
+
+* pourquoi cette décision ?
+* qui l’a prise ?
+* sur quelles hypothèses ?
+
+La mémoire organisationnelle réduit les répétitions.
+
+## 3. Réduction des conflits futurs
+
+Une décision documentée réduit les interprétations contradictoires.
+
+---
+
+# VIII. Le septième mécanisme : la culture du seuil suffisant
+
+## 1. Le piège du perfectionnisme
+
+Chercher la meilleure décision peut empêcher toute décision.
+
+## 2. Suffisamment bon
+
+Google favorise souvent le principe :
+
+suffisamment bon pour avancer.
+
+Cela accélère l’apprentissage.
+
+## 3. Optimisation progressive
+
+Mieux vaut améliorer une solution existante que bloquer sur une solution parfaite.
+
+---
+
+# IX. Le vrai modèle de Google
+
+Ce que beaucoup imaginent :
+
+Autonomie = liberté totale
+
+Ce que Google applique réellement :
+
+Autonomie = liberté structurée
+
+Structure :
+
+* objectifs clairs ;
+* rôles clairs ;
+* feedback rapide ;
+* sécurité psychologique ;
+* expérimentation ;
+* documentation ;
+* ownership.
+
+---
+
+# X. Conclusion générale
+
+Google ne contrôle pas l’indécision par le contrôle hiérarchique permanent.
+
+Google contrôle l’indécision par l’architecture organisationnelle.
+
+Le principe central est simple :
+
+plus une organisation veut distribuer la décision,
+plus elle doit structurer le cadre.
+
+L’autonomie n’élimine pas le besoin d’ordre.
+
+Elle transforme simplement sa forme.
+
+L’ordre ne vient plus du commandement.
+
+Il vient de la clarté.
+
+Et cette clarté permet une chose essentielle :
+
+décider vite,
+apprendre vite,
+s’adapter vite.
