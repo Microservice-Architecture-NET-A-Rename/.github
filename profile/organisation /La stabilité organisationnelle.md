@@ -151,7 +151,13 @@ Par exemple :
 
 Cette séquentialité produit de la stabilité car elle évite la confrontation directe entre intérêts opposés.
 
-Elle réduit la charge politique du choix.
+Elle réduit la charge politique du choix en empêchant l’ensemble des conflits d’émerger simultanément dans l’arène décisionnelle.
+
+Cependant, ce mécanisme a aussi un coût organisationnel important : il ralentit le fonctionnement de la firme. En traitant les problèmes les uns après les autres, l’organisation introduit des délais de décision, des arbitrages différés et une rigidité temporelle dans la gestion des priorités. La coordination devient plus lourde et moins réactive.
+
+Dans cette perspective, la séquentialité constitue un échange structurel : elle réduit la conflictualité immédiate, mais au prix d’une diminution de la vitesse d’ajustement. L’organisation gagne en stabilité politique interne, mais perd en capacité de réaction rapide aux changements de l’environnement.
+
+On peut donc interpréter ce mécanisme comme un arbitrage fondamental : une organisation pleinement simultanée serait plus rapide mais potentiellement instable, tandis qu’une organisation séquentielle est plus gouvernable mais intrinsèquement plus lente.
 
 ---
 
