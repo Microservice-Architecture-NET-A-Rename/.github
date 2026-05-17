@@ -422,39 +422,6 @@ que devient un individu lorsque les institutions refusent initialement de reconn
 
 ---
 
-# Pistes de réflexion complémentaires
-
-## Sociologie
-
-* Pierre Bourdieu : violence symbolique
-* La reproduction sociale
-* Le capital culturel
-* La légitimité institutionnelle
-
-## Psychologie
-
-* Blessure d’abandon
-* Compensation narcissique
-* Hypercontrôle
-* Quête de reconnaissance
-* Construction identitaire
-
-## Philosophie politique
-
-* Rapport entre mérite et dignité
-* Bureaucratie et déshumanisation
-* Critique des élites technocratiques
-* Individualisme créatif
-
-## Technologie
-
-* Culture startup
-* Silicon Valley comme nouvelle aristocratie
-* Le culte du fondateur
-* Esthétique du contrôle dans les produits Apple
-
----
-
 # Conclusion finale
 
 Le parcours de Steve Jobs ne démontre pas que les diplômes sont inutiles.
