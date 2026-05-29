@@ -1,4 +1,4 @@
-# Documentation stratégique — Rentabilité, gouvernance et limites de l’IA en entreprise
+# Rentabilité, gouvernance et limites de l’IA en entreprise
 
 ## Introduction
 
