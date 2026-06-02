@@ -197,11 +197,11 @@ L'objectif est de rendre les transitions professionnelles moins coûteuses que l
 
 ---
 
-## 10. Exemple concret de flexisécurité : le cas du Danemark
+# 10. Exemple concret de flexisécurité : le cas du Danemark
 
 Le modèle danois est souvent utilisé comme référence car il illustre de manière concrète le fonctionnement combiné de la flexibilité et de la sécurité.
 
-### 1. Situation de départ
+## 1. Situation de départ
 
 Dans une économie classique, un salarié en CDI peut hésiter à quitter son emploi ou une entreprise peut hésiter à embaucher, par crainte du coût d’un mauvais choix.
 
@@ -209,7 +209,7 @@ Le Danemark a choisi de réduire fortement ce coût en facilitant les transition
 
 ---
 
-### 2. Ce qui change concrètement
+## 2. Ce qui change concrètement
 
 Dans le modèle danois :
 
@@ -220,15 +220,15 @@ Dans le modèle danois :
 
 ---
 
-### 3. Ce que cela permet en pratique
+## 3. Ce que cela permet en pratique
 
 Ce système produit plusieurs effets observables :
 
-#### a) Recrutement plus dynamique
+### a) Recrutement plus dynamique
 
 Les entreprises hésitent moins à embaucher, car elles savent qu’elles peuvent ajuster leur effectif si nécessaire sans blocage juridique lourd.
 
-#### b) Mobilité professionnelle élevée
+### b) Mobilité professionnelle élevée
 
 Les salariés changent plus souvent d’emploi, ce qui permet :
 
@@ -236,13 +236,13 @@ Les salariés changent plus souvent d’emploi, ce qui permet :
 * une progression salariale plus rapide pour les profils qualifiés ;
 * une adaptation plus rapide aux mutations sectorielles.
 
-#### c) Réduction du chômage de longue durée
+### c) Réduction du chômage de longue durée
 
 Les politiques actives de retour à l’emploi limitent les situations d’exclusion durable du marché du travail.
 
 ---
 
-### 4. Résultat global
+## 4. Résultat global
 
 Le modèle danois montre qu’il est possible de combiner :
 
@@ -254,7 +254,7 @@ La sécurité n’est pas attachée au poste de travail, mais à la capacité de
 
 ---
 
-### 5. Point clé pour le débat
+## 5. Point clé pour le débat
 
 Le succès de ce modèle repose sur une condition essentielle :
 
