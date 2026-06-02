@@ -197,7 +197,75 @@ L'objectif est de rendre les transitions professionnelles moins coûteuses que l
 
 ---
 
-# 10. Conclusion
+## 10. Exemple concret de flexisécurité : le cas du Danemark
+
+Le modèle danois est souvent utilisé comme référence car il illustre de manière concrète le fonctionnement combiné de la flexibilité et de la sécurité.
+
+### 1. Situation de départ
+
+Dans une économie classique, un salarié en CDI peut hésiter à quitter son emploi ou une entreprise peut hésiter à embaucher, par crainte du coût d’un mauvais choix.
+
+Le Danemark a choisi de réduire fortement ce coût en facilitant les transitions professionnelles.
+
+---
+
+### 2. Ce qui change concrètement
+
+Dans le modèle danois :
+
+* Un employeur peut licencier relativement facilement en cas de besoin économique.
+* Le salarié qui perd son emploi ne se retrouve pas sans ressources.
+* Le système d’assurance chômage prend le relais avec un niveau de compensation élevé.
+* L’État met en place un accompagnement actif vers un nouvel emploi (formation, orientation, suivi).
+
+---
+
+### 3. Ce que cela permet en pratique
+
+Ce système produit plusieurs effets observables :
+
+#### a) Recrutement plus dynamique
+
+Les entreprises hésitent moins à embaucher, car elles savent qu’elles peuvent ajuster leur effectif si nécessaire sans blocage juridique lourd.
+
+#### b) Mobilité professionnelle élevée
+
+Les salariés changent plus souvent d’emploi, ce qui permet :
+
+* une meilleure allocation des compétences dans l’économie ;
+* une progression salariale plus rapide pour les profils qualifiés ;
+* une adaptation plus rapide aux mutations sectorielles.
+
+#### c) Réduction du chômage de longue durée
+
+Les politiques actives de retour à l’emploi limitent les situations d’exclusion durable du marché du travail.
+
+---
+
+### 4. Résultat global
+
+Le modèle danois montre qu’il est possible de combiner :
+
+* une forte fluidité du marché du travail ;
+* une sécurité économique pour les individus ;
+* un taux de chômage relativement bas sur le long terme.
+
+La sécurité n’est pas attachée au poste de travail, mais à la capacité de retrouver rapidement une activité.
+
+---
+
+### 5. Point clé pour le débat
+
+Le succès de ce modèle repose sur une condition essentielle :
+
+> la flexibilité n’est socialement acceptable que si la société garantit une sécurité de revenu et un accès rapide à la reconversion.
+
+Sans ce second pilier, la flexibilité tend à produire de l’insécurité plutôt que de la mobilité.
+
+
+---
+
+# 11. Conclusion
 
 Le débat sur le marché du travail oppose souvent deux visions de la sécurité.
 
