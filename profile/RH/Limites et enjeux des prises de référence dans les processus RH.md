@@ -1,4 +1,4 @@
-# 📄 Documentation — Limites et enjeux des prises de référence dans les processus RH
+# 📄 Limites et enjeux des prises de référence dans les processus RH
 
 ## 1. Introduction
 
