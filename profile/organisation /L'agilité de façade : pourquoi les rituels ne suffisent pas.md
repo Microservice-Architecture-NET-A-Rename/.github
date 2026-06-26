@@ -1,5 +1,3 @@
-Voici une documentation structurée qui pourrait servir de note de réflexion, de document interne ou de base pour une présentation.
-
 # L'agilité de façade : pourquoi les rituels ne suffisent pas
 
 ## Résumé
